@@ -51,13 +51,11 @@ Kodları Şu şekilde tasarlandı hangi lbok kodların hangi sayfaya ait olduğu
 
 
 
-![Ekran görüntüsü 2025-05-30 102956](https://github.com/user-attachments/assets/e0abddd4-16f7-48a4-9839-4e9150b6ee5d)
-
-
 
 
 
 ![Ekran görüntüsü 2025-05-30 100945](https://github.com/user-attachments/assets/442e5b34-6b58-4c48-928c-1f7f69ea59cc)
+![Ekran görüntüsü 2025-05-30 102956](https://github.com/user-attachments/assets/e0abddd4-16f7-48a4-9839-4e9150b6ee5d)
 ![Ekran görüntüsü 2025-05-30 103013](https://github.com/user-attachments/assets/a45c028b-306b-45c2-addd-892ee7df5326)
 ![Ekran görüntüsü 2025-05-30 103029](https://github.com/user-attachments/assets/d351d9fe-f1b7-412a-be65-316fd3533dce)
 ![Ekran görüntüsü 2025-05-30 103324](https://github.com/user-attachments/assets/23047e63-9977-4a4f-8654-9c57f19965b3)
