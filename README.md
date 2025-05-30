@@ -44,8 +44,9 @@ Kodları Şu şekilde tasarlandı hangi lbok kodların hangi sayfaya ait olduğu
 
 
 
-![Ekran görüntüsü 2025-05-30 102929](https://github.com/user-attachments/assets/bb69ef8b-ee03-4b47-a36c-152d8423d3f1)
+
 ![Ekran görüntüsü 2025-05-30 100934](https://github.com/user-attachments/assets/e7e18582-1f3f-4054-9bef-bd2139fdfd72)
+![Ekran görüntüsü 2025-05-30 102929](https://github.com/user-attachments/assets/bb69ef8b-ee03-4b47-a36c-152d8423d3f1)
 
 
 
